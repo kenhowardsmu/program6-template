@@ -2,8 +2,8 @@
 // Created by Ken Howard on 4/11/23.
 //
 
-#ifndef PROGRAM6_SPRING2023_PLAY_H
-#define PROGRAM6_SPRING2023_PLAY_H
+#ifndef PROGRAM6-TEMPLATE_PLAY_H
+#define PROGRAM6-TEMPLATE_PLAY_H
 #include <string>
 #include <iostream>
 #include "Play.h"
@@ -15,4 +15,4 @@ class Play {
 
 };
 
-#endif //PROGRAM6_SPRING2023_PLAY_H
+#endif //PROGRAM6-TEMPLATE_PLAY_H

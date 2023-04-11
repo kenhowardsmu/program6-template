@@ -2,8 +2,8 @@
 // Created by Ken Howard on 4/11/23.
 //
 
-#ifndef PROGRAM6_SPRING2023_TEAM_H
-#define PROGRAM6_SPRING2023_TEAM_H
+#ifndef PROGRAM6-TEMPLATE_TEAM_H
+#define PROGRAM6-TEMPLATE_TEAM_H
 #include <string>
 #include <vector>
 #include "Play.h"
@@ -15,4 +15,4 @@ class Team {
 
 };
 
-#endif //PROGRAM6_SPRING2023_TEAM_H
+#endif //PROGRAM6-TEMPLATE_TEAM_H
